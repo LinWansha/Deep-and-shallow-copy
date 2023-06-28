@@ -1,0 +1,8 @@
+D:\user\C#work\ValueCopy\ValueCopy\bin\Debug\ValueCopy.exe.config
+D:\user\C#work\ValueCopy\ValueCopy\bin\Debug\ValueCopy.exe
+D:\user\C#work\ValueCopy\ValueCopy\bin\Debug\ValueCopy.pdb
+D:\user\C#work\ValueCopy\ValueCopy\obj\Debug\ValueCopy.csproj.AssemblyReference.cache
+D:\user\C#work\ValueCopy\ValueCopy\obj\Debug\ValueCopy.csproj.SuggestedBindingRedirects.cache
+D:\user\C#work\ValueCopy\ValueCopy\obj\Debug\ValueCopy.csproj.CoreCompileInputs.cache
+D:\user\C#work\ValueCopy\ValueCopy\obj\Debug\ValueCopy.exe
+D:\user\C#work\ValueCopy\ValueCopy\obj\Debug\ValueCopy.pdb
