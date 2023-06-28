@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueCopy", "ValueCopy\ValueCopy.csproj", "{9F66F79B-04E0-4BD1-A727-4850025ED1C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueCopy", "ValueCopy.csproj", "{9F66F79B-04E0-4BD1-A727-4850025ED1C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {557090F9-9C44-40E0-890B-ABB1CE020367}
+		SolutionGuid = {B74FABFC-866B-4035-987C-C541234DE12A}
 	EndGlobalSection
 EndGlobal
